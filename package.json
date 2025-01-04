@@ -4,6 +4,7 @@
   "description": "an electron.js project for solution direct and indirect geodesic problems",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
